@@ -1,2 +1,3 @@
 # NSS - National Service Scheme
-Website Made For College National Service Scheme Club.
+- Website For College NSS Club.
+- Website Has Blog Section and Blogs on Various Social Causes.
